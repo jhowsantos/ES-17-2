@@ -14,4 +14,4 @@ def test_multiplicar():
     assert somar(2,3)==6
 
 def test_dividir():
-    assert sub(10,2)==5
+    assert sub(10,2)==5 # teste
